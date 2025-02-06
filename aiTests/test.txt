@@ -1,0 +1,100 @@
+Michael Syphrit
+(480)-267-0336
+Michaelsyphrit@gmail.com
+ACHIEVEMENTS
+Implemented Multiple Custom SSO connections
+for Onelogin
+●
+Created connections between Onelogin and mindtickle,
+bluevolt, Fleetio
+Consistently Within The Top 15% For Ticket
+Metrics
+September 2021 - November 2022
+Deployed Multiple Custom Audit Scripts for
+Vacasa that are still being used today.
+●
+Saved the company upwards of 200,000 dollars per year
+by removing old accounts and service accounts that were
+no longer being used.
+WORK EXPERIENCE
+Vacasa-IT Support Specialist
+September 2021 to November 2022
+●
+Provided Technical support to all Vacasa employees
+●
+Managed Account creation, permissions, App
+assignment and administration
+●
+Assisted in integrating Turnkey Applications to
+OneLogIn and providing admin accounts for the
+service desk techs as well as writing documentation
+for each account integrated
+Vacasa-Software engineer II /
+Saas Systems Engineer II
+April 2023 to June 2024
+●
+Created a plethora of SSO and SCIM connections for
+various Saas based applications within both Okta
+and OneLogIn
+●
+Directly administered over 500 engineering
+accounts
+●
+Created Custom SCIM connections between various
+Saas applications and our SSO platform
+●
+Wrote out documentation for each Custom made
+SCIM solution as well as offered training sessions to
+the helpdesk team, Hr, and various managers who
+operated through the training platforms.
+●
+Created custom Gitops Ci/CD pipeline to automate
+the updating and expansion of the Custom built
+SCIM connections
+SKILLS
+​Python - 3 years
+​SQL / RDBMS System- 3 years
+​IDAP - 3 years
+​Google Workspace - 3 years
+​Windows 365 - 3 years
+​IAM - 3 years
+​Agile work environments (Jira,
+Plane) - 3 years
+​Docker / kubernetes- 3 years
+​AWS / GCP - 3 years
+​Virtualization - 3 years
+​Windows/Linux/MacOS - 3 years
+​SalesForce - 3 years
+​Okta / Onelogin - 3 years
+​Networking - 3 years
+​SAML / SSO - 3 years
+​Restful APIs - 3 years
+​Terraform - 2 years
+INTERESTS
+Engineering/Computer science
+3D modeling
+Hardware Architecture
+Networking and Cloud infrastructure
+Machining and Manufacturing
+Automotive/Motorcycle Maintenance
+and repair
+Fauna and Aquatic wildlife
+Education
+Current Full time student studying
+Cyber Security Bas at ACC with the
+intention of transferring to UT and
+acquiring a masters in Computer
+Engineering
+REFERENCES
+Cornelius RumbleJunk
+- SaaS Manager
+●
+Cornelius.Rubmplejunk@whit
+eblazeit.com
+●
+737-600-3905
+Patrick Simpson - IT Senior
+Manager
+●
+Patrick.Simpson@vacasa.com
+
