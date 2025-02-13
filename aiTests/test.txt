@@ -1,100 +1,1373 @@
-Michael Syphrit
-(480)-267-0336
-Michaelsyphrit@gmail.com
-ACHIEVEMENTS
-Implemented Multiple Custom SSO connections
-for Onelogin
-●
-Created connections between Onelogin and mindtickle,
-bluevolt, Fleetio
-Consistently Within The Top 15% For Ticket
-Metrics
-September 2021 - November 2022
-Deployed Multiple Custom Audit Scripts for
-Vacasa that are still being used today.
-●
-Saved the company upwards of 200,000 dollars per year
-by removing old accounts and service accounts that were
-no longer being used.
-WORK EXPERIENCE
-Vacasa-IT Support Specialist
-September 2021 to November 2022
-●
-Provided Technical support to all Vacasa employees
-●
-Managed Account creation, permissions, App
-assignment and administration
-●
-Assisted in integrating Turnkey Applications to
-OneLogIn and providing admin accounts for the
-service desk techs as well as writing documentation
-for each account integrated
-Vacasa-Software engineer II /
-Saas Systems Engineer II
-April 2023 to June 2024
-●
-Created a plethora of SSO and SCIM connections for
-various Saas based applications within both Okta
-and OneLogIn
-●
-Directly administered over 500 engineering
-accounts
-●
-Created Custom SCIM connections between various
-Saas applications and our SSO platform
-●
-Wrote out documentation for each Custom made
-SCIM solution as well as offered training sessions to
-the helpdesk team, Hr, and various managers who
-operated through the training platforms.
-●
-Created custom Gitops Ci/CD pipeline to automate
-the updating and expansion of the Custom built
-SCIM connections
-SKILLS
-​Python - 3 years
-​SQL / RDBMS System- 3 years
-​IDAP - 3 years
-​Google Workspace - 3 years
-​Windows 365 - 3 years
-​IAM - 3 years
-​Agile work environments (Jira,
-Plane) - 3 years
-​Docker / kubernetes- 3 years
-​AWS / GCP - 3 years
-​Virtualization - 3 years
-​Windows/Linux/MacOS - 3 years
-​SalesForce - 3 years
-​Okta / Onelogin - 3 years
-​Networking - 3 years
-​SAML / SSO - 3 years
-​Restful APIs - 3 years
-​Terraform - 2 years
-INTERESTS
-Engineering/Computer science
-3D modeling
-Hardware Architecture
-Networking and Cloud infrastructure
-Machining and Manufacturing
-Automotive/Motorcycle Maintenance
-and repair
-Fauna and Aquatic wildlife
-Education
-Current Full time student studying
-Cyber Security Bas at ACC with the
-intention of transferring to UT and
-acquiring a masters in Computer
-Engineering
-REFERENCES
-Cornelius RumbleJunk
-- SaaS Manager
-●
-Cornelius.Rubmplejunk@whit
-eblazeit.com
-●
-737-600-3905
-Patrick Simpson - IT Senior
-Manager
-●
-Patrick.Simpson@vacasa.com
+Allstate Insurance Company
+P.O. Box 660636
+Dallas, TX 75266
+Fax: 866-447-4293
+www.myclaim.com
+2/19/2024
+Page: 1
+Insured:
+Home:
+Home:
+Claim Rep.:
+GREG BROWN
+Business:
+(877) 447-9386
+E-mail:
+CLAIMS@CLAIMS.ALLSTATE.
+COM
+Business:
+P.O. Box 672041
+Dallas, TX 75267
+Estimator:
+GREG BROWN
+Business:
+(877) 447-9386
+E-mail:
+CLAIMS@CLAIMS.
+ALLSTATE.COM
+Business:
+P.O. Box 672041
+Dallas, TX 75267
+Claim Number:
+Policy Number:
+Type of Loss: WINDSTORM AND HAIL
+Insurance Company: Allstate Fire and Casualty Insurance Company
+Date Contacted:
+10/1/2023 2:57 PM
+Date of Loss:
+9/25/2023 2:30 AM
+Date Received:
+9/25/2023 4:33 AM
+Date Inspected:
+Date Entered:
+9/29/2023 11:53 AM
+Date Est. Completed:
+2/19/2024 9:08 PM
+Price List:
+TXAU8X_SEP23
+Restoration/Service/Remodel
+Estimate:
+Allstate is dedicated to providing you with outstanding service throughout the claim-handling process. If you have any questions
+regarding this estimate, or if there are differences with the estimate provided by your repair person of choice, or if additional
+damage is found during the repair process, please contact us at (877) 447-9386.
+Thank you,
+GREG BROWN
+If you like, Allstate can refer an approved vendor who offers a workmanship guarantee. (This option may not be available in all
+areas or for all losses.)
+THIS ESTIMATE REPRESENTS OUR CURRENT EVALUATION OF THE COVERED DAMAGES TO YOUR INSURED
+PROPERTY AND MAY BE REVISED AS WE CONTINUE TO EVALUATE YOUR CLAIM. IF YOU HAVE QUESTIONS,
+CONCERNS, OR ADDITIONAL INFORMATION REGARDING YOUR CLAIM, WE ENCOURAGE YOU TO CONTACT
+US.
+Allstate Insurance Company
+P.O. Box 660636
+Dallas, TX 75266
+Fax: 866-447-4293
+www.myclaim.com
+2/19/2024
+Page: 2
+Source - EagleView Roof
+Source - EagleView Roof
+R8  (2)
+(A)
+F8
+F5
+Dwelling Roof
+(A)
+F4
+(B)
+F2
+(C)
+F3
+(D)
+F1
+R5  (5)
+F5
+R6  (1)
+F6
+R7  (3)
+F7
+R9  (4)
+F9
+29' 10"
+11' 9"
+10' 10"
+21' 9"
+20' 11"
+20'
+15' 4"
+14' 2"
+28' 2"
+15' 4"
+14' 2"
+15' 2"
+14'
+4' 10"
+4' 8"
+6' 5"
+16'
+15' 4"
+15' 4"
+14' 2"
+64' 5"
+9' 5"
+17' 8"
+16' 4"
+17' 8"
+16' 4"
+31' 9"
+32' 8"
+24' 1"
+24' 1"
+Dwelling Roof
+3177.12 Surface Area
+266.51 Total Perimeter Length
+163.58 Total Hip Length
+31.77 Number of Squares
+54.92 Total Ridge Length
+DESCRIPTION
+QUANTITY
+UNIT
+RCV
+AGE/LIFE
+COND.
+DEP %
+DEPREC.
+ACV
+1.  Remove 3 tab - 25 yr. - composition shingle
+31.77 SQ
+62.57
+1,987.85
+20/25 yrs Avg.
+NA
+(0.00)
+1,987.85
+roofing - incl. felt
+3.  3 tab - 25 yr. - comp. shingle roofing - w/out
+35.33 SQ
+264.51
+9,345.14
+20/25 yrs Avg.
+80%
+(3,161.61)
+6,183.53
+felt
+Auto Calculated Waste: 11.2%, 3.56SQ
+Options:  Valleys: Closed-cut (half laced), Include eave starter course: Yes, Include rake starter course: Yes, Include ridge/hip cap: No, Exposure - Hip/Valley/Starter:
+5",
+Bundle Rounding: 0.1%, 0.02SQ - (included in waste calculation above)
+2.  Roofing felt - 15 lb.
+31.77 SQ
+40.19
+1,276.84
+20/20 yrs Avg.
+90% [M]
+(213.88)
+1,062.96
+12.  Hip / Ridge cap - cut from 3 tab -
+218.50 LF
+5.41
+1,182.09
+0/25 yrs Avg.
+0%
+(0.00)
+1,182.09
+composition shingles
+4.  Exhaust cap - through roof - 6" to 8"
+1.00 EA
+116.34
+116.34
+20/35 yrs Avg.
+57.14%
+(28.86)
+87.48
+13.  Prime & paint roof vent
+6.00 EA
+41.32
+247.92
+0/15 yrs Avg.
+0%
+(0.00)
+247.92
+5.  R&R Power attic vent cover only - metal
+5.00 EA
+125.60
+628.00
+20/7 yrs Avg.
+90% [M]
+(160.97)
+467.03
+6.  Flashing - pipe jack
+4.00 EA
+58.71
+234.84
+20/35 yrs Avg.
+57.14%
+(40.14)
+194.70
+14.  Prime & paint roof jack
+4.00 EA
+41.32
+165.28
+0/15 yrs Avg.
+0%
+(0.00)
+165.28
+7.  R&R Drip edge
+266.51 LF
+3.58
+954.10
+20/35 yrs Avg.
+57.14%
+(176.66)
+777.44
+8.  Paint trim - one coat
+266.51 LF
+1.19
+317.15
+20/15 yrs Avg.
+90% [M]
+(23.99)
+293.16
+15.  Sheathing - OSB - 1/2"
+3,177.12 SF
+2.44
+7,752.17
+0/150 yrs Avg.
+0%
+(0.00)
+7,752.17
+16.  R&R Chimney flashing - large (32" x 60")
+1.00 EA
+695.32
+695.32
+20/35 yrs Avg.
+57.14%
+(84.52)
+610.80
+17.  R&R Valley metal
+48.07 LF
+7.94
+381.67
+20/35 yrs Avg.
+57.14%
+(75.26)
+306.41
+18.  Ice & water barrier
+144.00 SF
+2.06
+296.64
+20/30 yrs Avg.
+66.67%
+(57.60)
+239.04
+19.  Step flashing
+16.00 LF
+12.38
+198.08
+20/35 yrs Avg.
+57.14%
+(18.01)
+180.07
+20.  R&R Counterflashing - Apron flashing
+16.00 LF
+12.97
+207.52
+20/35 yrs Avg.
+57.14%
+(15.91)
+191.61
+Totals:  Dwelling Roof
+25,986.95
+4,057.41
+21,929.54
+Total:  Source - EagleView Roof
+25,986.95
+4,057.41
+21,929.54
+Total:  Source - EagleView Roof
+25,986.95
+4,057.41
+21,929.54
+Exterior
+DESCRIPTION
+QUANTITY
+UNIT
+RCV
+AGE/LIFE
+COND.
+DEP %
+DEPREC.
+ACV
+9.  R&R Gutter - aluminum - up to 5"*
+33.00 LF
+0/25 yrs Avg.
+0%
+BID ITEM
+3
+Allstate Insurance Company
+P.O. Box 660636
+Dallas, TX 75266
+Fax: 866-447-4293
+www.myclaim.com
+2/19/2024
+Page: 3
+CONTINUED - Exterior
+AGE/LIFE
+DESCRIPTION
+QUANTITY
+UNIT
+RCV
+DEPREC.
+ACV
+DEP %
+COND.
+21.  Reglaze window, 1 - 9 sf
+3.00 EA
+84.53
+253.59
+0/18 yrs Avg.
+0%
+(0.00)
+253.59
+2 windows on left side and 1 front window
+24.  PER TEXAS GUTTER KING BID*
+1.00 EA
+1,750.00
+1,750.00
+0/NA Avg.
+0%
+(0.00)
+1,750.00
+Totals:  Exterior
+2,003.59
+0.00
+2,003.59
+0
+Fence
+DESCRIPTION
+QUANTITY
+UNIT
+RCV
+AGE/LIFE
+COND.
+DEP %
+DEPREC.
+ACV
+10.  Clean
+90.00 SF
+0.41
+36.90
+0/NA Avg.
+0%
+(0.00)
+36.90
+11.  Seal & paint - wood fence/gate
+90.00 SF
+1.34
+120.60
+0/15 yrs Avg.
+0%
+(0.00)
+120.60
+22.  R&R Greenhouse Covering - Walls
+8.00 SF
+4.73
+37.84
+0/25 yrs Avg.
+0%
+(0.00)
+37.84
+(polycarbonate)
+Totals:  Fence
+195.34
+0.00
+195.34
+Personal Property
+DESCRIPTION
+QUANTITY
+UNIT
+RCV
+AGE/LIFE
+COND.
+DEP %
+DEPREC.
+ACV
+No Damage Related to Loss
+Totals:  Personal Property
+0.00
+0.00
+0.00
+Total:  0
+195.34
+0.00
+195.34
+Labor Minimums Applied
+DESCRIPTION
+QUANTITY
+UNIT
+RCV
+AGE/LIFE
+COND.
+DEP %
+DEPREC.
+ACV
+25.  Window labor minimum
+1.00 EA
+128.23
+128.23
+0/NA Avg.
+0%
+(0.00)
+128.23
+Totals:  Labor Minimums Applied
+128.23
+0.00
+128.23
+Line Item Totals:  DASON_WHITSETT1
+28,314.11
+4,057.41
+24,256.70
+Allstate Insurance Company
+P.O. Box 660636
+Dallas, TX 75266
+Fax: 866-447-4293
+www.myclaim.com
+2/19/2024
+Page: 4
+[%] - Indicates that depreciate by percent was used for this item
+[M] - Indicates that the depreciation percentage was limited by the maximum allowable depreciation for this item
+Grand Total Areas:
+0.00 SF Walls
+0.00 SF Ceiling
+SF Walls and Ceiling
+0.00
+0.00 SF Floor
+0.00 SY Flooring
+0.00
+LF Floor Perimeter
+0.00 SF Long Wall
+0.00 SF Short Wall
+0.00
+LF Ceil. Perimeter
+0.00 Floor Area
+0.00 Total Area
+0.00
+Interior Wall Area
+0.00 Exterior Wall Area
+0.00 Exterior Perimeter of
+Walls
+3,177.12 Surface Area
+31.77 Number of Squares
+266.51
+Total Perimeter Length
+54.92 Total Ridge Length
+163.58 Total Hip Length
+5
+Allstate Insurance Company
+P.O. Box 660636
+Dallas, TX 75266
+Fax: 866-447-4293
+www.myclaim.com
+2/19/2024
+Page: 5
+Coverage
+Item Total
+%
+ACV Total
+%
+AA-Dwelling
+20,366.60
+71.93%
+16,450.01
+66.97%
+A9-Dwelling - Mold
+0.00
+0.00%
+0.00
+0.00%
+AE-Extended Protection Amendatory
+0.00
+0.00%
+0.00
+0.00%
+Endorsement
+BB-Other Structures
+195.34
+0.69%
+202.85
+0.83%
+B9-Other Structures - Mold
+0.00
+0.00%
+0.00
+0.00%
+BC-Building Codes
+7,752.17
+27.38%
+7,909.44
+32.20%
+CC-Unscheduled Personal Property
+0.00
+0.00%
+0.00
+0.00%
+C9-Unscheduled Personal Property - Mold
+0.00
+0.00%
+0.00
+0.00%
+CD-Credit Card and Depositors Fraud
+0.00
+0.00%
+0.00
+0.00%
+DD-Additional Living Expense
+0.00
+0.00%
+0.00
+0.00%
+D9-Additional Living Expense - Mold
+0.00
+0.00%
+0.00
+0.00%
+FF-Fire Department Service Charge
+0.00
+0.00%
+0.00
+0.00%
+ML-Motorized Land Vehicle
+0.00
+0.00%
+0.00
+0.00%
+MN-Manuscripts
+0.00
+0.00%
+0.00
+0.00%
+PF-Power Failure
+0.00
+0.00%
+0.00
+0.00%
+RC-Replacement Cost - Contents
+0.00
+0.00%
+0.00
+0.00%
+RD-Replacement Cost - Dwelling
+0.00
+0.00%
+0.00
+0.00%
+RG-Residence Glass
+0.00
+0.00%
+0.00
+0.00%
+VP-Motorized Land Vehicle Parts,
+0.00
+0.00%
+0.00
+0.00%
+Equipment or Accessories
+XX-Liability
+0.00
+0.00%
+0.00
+0.00%
+X9-Liability - Mold
+0.00
+0.00%
+0.00
+0.00%
+YY-Guest Medical
+0.00
+0.00%
+0.00
+0.00%
+Y9-Guest Medical - Mold
+0.00
+0.00%
+0.00
+0.00%
+Total
+28,314.11
+100.00%
+24,562.30
+100.00%
+6
+Allstate Insurance Company
+P.O. Box 660636
+Dallas, TX 75266
+Fax: 866-447-4293
+www.myclaim.com
+2/19/2024
+Page: 6
+Summary for
+AA-Dwelling
+Summary for All Items
+Line Item Total
+20,366.60
+Material Sales Tax
+475.55
+Replacement Cost Value
+$20,842.15
+Less Depreciation
+(4,392.14)
+Actual Cash Value
+$16,450.01
+Less Deductible
+(2,690.00)
+Less Prior Payment(s)
+(12,358.03)
+Net Claim Remaining
+$1,401.98
+Total Recoverable Depreciation
+4,392.14
+Net Claim Remaining if Depreciation is Recovered
+$5,794.12
+GREG BROWN
+Allstate Insurance Company
+P.O. Box 660636
+Dallas, TX 75266
+Fax: 866-447-4293
+www.myclaim.com
+2/19/2024
+Page: 7
+Summary for
+BB-Other Structures
+Summary for All Items
+Line Item Total
+195.34
+Material Sales Tax
+4.39
+Cleaning Mtl Tax
+0.07
+Cleaning Sales Tax
+3.05
+Replacement Cost Value
+$202.85
+Less Non-recoverable Depreciation
+<0.00>
+Actual Cash Value
+$202.85
+Less Prior Payment(s)
+(202.85)
+Net Claim Remaining
+$0.00
+GREG BROWN
+8
+Allstate Insurance Company
+P.O. Box 660636
+Dallas, TX 75266
+Fax: 866-447-4293
+www.myclaim.com
+2/19/2024
+Page: 8
+Summary for
+BC-Building Codes
+Summary for All Items
+Line Item Total
+7,752.17
+Material Sales Tax
+157.27
+Replacement Cost Value
+$7,909.44
+Less Non-recoverable Depreciation
+<0.00>
+Actual Cash Value
+$7,909.44
+Net Claim
+$7,909.44
+GREG BROWN
+ 
+Allstate Insurance Company, Allstate Indemnity Company, Allstate Fire and Casualty Insurance Company, 
+Allstate Property and Casualty Insurance Company, Northbrook, IL. 
+©2023 Allstate Insurance Company. allstate.com 01/2023 
+ 
+                            
+ 
+ 
+Your guide to contents depreciation recovery. 
+Your property policy may contain a replacement cost provision that allows for the recovery of depreciation on items that are 
+purchased within the policy-specified timeframe. If it does, then your Adjuster Summary that accompanies this guide will show any 
+applicable recoverable depreciation amounts. 
+Please make sure that the following 
+information is addressed when submitting 
+receipts for depreciation reimbursement 
+consideration: 
+1. Receipts must be legible 
+2. Items on receipts should be 
+numbered consistent with the item 
+description on the Adjuster 
+Summary (example below) 
+3. The receipt should contain: the 
+store name, date of purchase, item 
+descriptions and quantities, order 
+number (for online purchases), 
+payment method and total including 
+any applicable taxes or shipping 
+fees 
+4. Additional documentation may be 
+required for specific purchase types. 
+Your adjuster can help clarify what 
+is needed for your claim 
+Example of Adjuster Summary: 
+ 
+ 
+ 
+ 
+ 
+ 
+You can upload your clear, labeled receipts to the Documents tab on MyClaim or send them to claims@claims.allstate.com with your 
+claim number in the subject line for reimbursement consideration. 
+------- 
+This is an instructional guide on how to submit receipts for consideration of reimbursement on covered recoverable depreciation and does not confer coverage that is 
+outside of your policy. It is subject to your policy terms, conditions, exclusions and limitations.  
+Any person who knowingly and with intent to injure, defraud, or deceive any insurer files a statement of claim or an application containing any false, incomplete, or 
+misleading information may be guilty of a crime and may be subject to prosecution under applicable state law.  
+2 
+4 
+3 
+1 
+0
+Allstate Insurance Company
+P.O. Box 660636
+Dallas, TX 75266
+Fax: 866-447-4293
+www.myclaim.com
+2/19/2024
+Page: 10
+Recap of Taxes
+Material Sales Tax
+Cleaning Mtl Tax
+Cleaning Sales Tax
+Manuf. Home Tax
+Storage Rental Tax
+Total Tax (8.25%)
+(8.25%)
+(8.25%)
+(8.25%)
+(5%)
+(8.25%)
+Line Items
+637.21
+0.07
+3.05
+0.00
+0.00
+0.00
+Total
+637.21
+0.07
+3.05
+0.00
+0.00
+0.00
+Allstate Insurance Company
+P.O. Box 660636
+Dallas, TX 75266
+Fax: 866-447-4293
+www.myclaim.com
+2/19/2024
+Page: 11
+Recap by Room
+Estimate: DASON_WHITSETT1
+Area: Source - EagleView Roof
+Area: Source - EagleView Roof
+Dwelling Roof
+25,986.95
+91.78%
+Coverage: AA-Dwelling
+70.17%  =
+18,234.78
+Coverage: BC-Building Codes
+29.83%  =
+7,752.17
+Area Subtotal:  Source - EagleView Roof
+91.78%
+25,986.95
+Coverage: AA-Dwelling
+70.17%  =
+18,234.78
+Coverage: BC-Building Codes
+29.83%  =
+7,752.17
+Area Subtotal:  Source - EagleView Roof
+91.78%
+25,986.95
+Coverage: AA-Dwelling
+70.17%  =
+18,234.78
+Coverage: BC-Building Codes
+29.83%  =
+7,752.17
+Exterior
+2,003.59
+7.08%
+Coverage: AA-Dwelling
+100.00%  =
+2,003.59
+Area: 0
+Fence
+195.34
+0.69%
+Coverage: BB-Other Structures
+100.00%  =
+195.34
+Area Subtotal:  0
+0.69%
+195.34
+Coverage: BB-Other Structures
+100.00%  =
+195.34
+Labor Minimums Applied
+128.23
+0.45%
+Coverage: AA-Dwelling
+100.00%  =
+128.23
+Subtotal of Areas
+100.00%
+28,314.11
+Coverage: AA-Dwelling
+71.93%  =
+20,366.60
+Coverage: BB-Other Structures
+0.69%  =
+195.34
+Coverage: BC-Building Codes
+27.38%  =
+7,752.17
+Total
+28,314.11
+100.00%
+Allstate Insurance Company
+P.O. Box 660636
+Dallas, TX 75266
+Fax: 866-447-4293
+www.myclaim.com
+2/19/2024
+Page: 12
+Recap by Category with Depreciation
+Items
+RCV
+Deprec.
+ACV
+CLEANING
+36.90
+36.90
+Coverage: BB-Other Structures
+@
+100.00%  =
+36.90
+GENERAL DEMOLITION
+2,219.77
+2,219.77
+Coverage: AA-Dwelling
+@
+99.95%  =
+2,218.65
+Coverage: BB-Other Structures
+@
+0.05%  =
+1.12
+PAINTING
+850.95
+23.99
+826.96
+Coverage: AA-Dwelling
+@
+85.83%  =
+730.35
+Coverage: BB-Other Structures
+@
+14.17%  =
+120.60
+ROOFING
+23,037.95
+4,033.42
+19,004.53
+Coverage: AA-Dwelling
+@
+66.35%  =
+15,285.78
+Coverage: BC-Building Codes
+@
+33.65%  =
+7,752.17
+SOFFIT, FASCIA, & GUTTER
+1,750.00
+1,750.00
+Coverage: AA-Dwelling
+@
+100.00%  =
+1,750.00
+WINDOW REGLAZING & REPAIR
+253.59
+253.59
+Coverage: AA-Dwelling
+@
+100.00%  =
+253.59
+WINDOWS - WOOD
+128.23
+128.23
+Coverage: AA-Dwelling
+@
+100.00%  =
+128.23
+EXTERIOR STRUCTURES
+36.72
+36.72
+Coverage: BB-Other Structures
+@
+100.00%  =
+36.72
+Subtotal
+28,314.11
+4,057.41
+24,256.70
+Material Sales Tax
+637.21
+334.73
+302.48
+Coverage: AA-Dwelling
+@
+74.63%  =
+475.55
+Coverage: BB-Other Structures
+@
+0.69%  =
+4.39
+Coverage: BC-Building Codes
+@
+24.68%  =
+157.27
+Cleaning Mtl Tax
+0.07
+0.07
+Coverage: BB-Other Structures
+@
+100.00%  =
+0.07
+Cleaning Sales Tax
+3.05
+3.05
+Coverage: BB-Other Structures
+@
+100.00%  =
+3.05
+Total
+28,954.44
+4,392.14
+24,562.30
+Depending upon the circumstances of your loss, our estimate may or may not include an amount for general contractor's overhead
+and profit.  If you have questions regarding general contractor's overhead and profit and whether the services of a general
+contractor are appropriate for your loss, please contact your claim representative before proceeding with repairs.
+This document includes a damage estimate for your property based on Replacement Cost Value (RCV) and Actual Cash Value
+(ACV). The ACV estimate reflects the RCV less the amount of any depreciation.  Depreciation is the decrease in value of an
+item due to the item’s condition, which takes into consideration age, life expectancy, usage, type of item, and market factors.  As
+your adjuster has explained, depending on your policy, you may be able to recover your depreciation upon your repair or
+3
+Allstate Insurance Company
+P.O. Box 660636
+Dallas, TX 75266
+Fax: 866-447-4293
+www.myclaim.com
+2/19/2024
+Page: 13
+replacement of the covered damages.
+During the claim process, we asked for your assistance in establishing the age and condition of your damaged items. If you have
+any questions regarding the age and condition applied to your property, or any other questions regarding this estimate, please
+contact your adjuster.
+Specialized skill, licensing or certification may be needed of any contractor(s) that you retain, for instance, to identify the
+presence and nature of any potential contaminants, toxins, pollutants, or other hazards that may be encountered during the course
+of the work, or to utilize appropriate work practices and procedures during the course of the work. Check with your local or State
+public health or environmental agency regarding potential hazards, including contractor qualifications and other requirements.
+For your safety, it is prudent to avoid areas where damaged structures, materials or unknown substances may be present, and to
+not disturb such structures, material, or unknown substances until your contractors have inspected the work site.
+The suggestions above are provided only for your consideration. They in no way supplement, alter or modify your existing
+coverage.  Your insurance policy is the legal contract that contains the terms and limitations of your coverage.
+If you have any concerns about the grade of flooring on your estimate, you may take advantage of a free service that will provide
+you with a more specific analysis. To use this option, please keep a 12" x 12" sample of your damaged flooring, and notify your
+Allstate adjuster that you would like the additional analysis.
+2/19/2024
+Page: 14
+Source - EagleView Roof - Source - EagleView Roof
+R8  (2)
+(A)
+F8
+F5
+Dwelling Roof
+(A)
+F4
+(B)
+F2
+(C)
+F3
+(D)
+F1
+R5  (5)
+F5
+R6  (1)
+F6
+R7  (3)
+F7
+R9  (4)
+F9
+Source - EagleView Roof
+1' 6"
+29' 10"
+11' 9"
+10' 10"
+11' 9"
+10' 10"
+21' 9"
+16'
+16'
+64' 5"
+9' 5"
+33' 2"
+17' 8"
+16' 4"
+17' 8"
+16' 4"
+31' 9"
+32' 8"
+24' 1"
+24' 1"
+20' 11"
+20'
+15' 4"
+14' 2"
+28' 2"
+15' 4"
+14' 2"
+20' 9"
+19' 11"
+28' 4"
+15' 2"
+14'
+4' 10"
+4' 8"
+20' 9"
+19' 11"
+6' 5"
+16'
+15' 4"
+15' 4"
+14' 2"
+DESCRIPTION
+QUANTITY
+UNIT
+RCV
+AGE/LIFE
+COND
+DEP %
+DEPREC.
+ACV
+4. R&R ½” drywall-hung, taped, floated, 
+ready for paint
+685.47SF
+3.25
+2,248.34
+2/150 yrs
+Avg.
+1.33%
+(7.04)
+2,241.30
+5. Seal/prime then paint the walls and 
+ceiling (2 coats)
+685.47SF
+.90
+616.12
+2/15 yrs
+Avg.
+13.33%
+(13.71)
+603.21
+6. Haul debris-per pickup truck load-
+including dump fees
+1.00 EA
+147.92
+147.92
+0/NA
+Avg.
+NA
+(0.00)
+147.92
+Total: Bedroom
+3,013.18
+20.75
+2,992.43
+Roof
+8,408.64
+199.85
+860.85
+860.85
+Your guide to reading your adjuster summary.*
+© Xactware
+J
+LF = Linear Feet
+SQ = 100 Square Feet
+SF = Square Feet
+SY = Square Yard
+EA = Each
+*This is a sample guide to your adjuster summary
+©2018 Allstate Insurance Company. allstate.com 09/2018
+Summary for Dwelling 
+Summary for All Items
+Line Item Total 
+Material Sales Tax
+General Contractor Overhead 
+General Contractor Profit
+(500.00)
+Summary for Contents
+Summary for All Items
+Line Item Total 
+Material Sales Tax
+A
+B
+H
+I
+L
+M
+N
+O
+P
+Q
+K
+C
+F
+Bedroom
+799.00
+Replacement CostValue
+Less Depreciation
+Actual CashValue
+Replacement CostValue
+Less Depreciation
+Actual CashValue
+$854.93
+(47.94)
+$806.99
+$806.99
+Net Claim
+Total Recoverable Depreciation
+47.94
+Net Claim if Depreciation is Recovered
+$854.93
+Contents
+55.93
+E
+G
+D
+Net Claim if Depreciation is Recovered
+A.
+CLAIM NUMBER
+The claim number assigned to your loss.
+B.
+DAMAGE LOCATION
+The area that has been damaged.
+C.
+UNIT COST
+This amount reflects the cost of an item.
+D.
+REPLACEMENT COST VALUE
+Cost to repair or replace covered property 
+damages.
+E.
+ACTUAL CASH VALUE
+This amount reflects the Replacement Cost Value
+less the amount of any Depreciation.
+F.
+DEPRECIATION
+This
+amount
+reflects
+any
+deductions
+from
+Replacement Cost Value to account for the
+decrease in the property’s value due to various
+factors including, but not limited to, age, life
+expectancy,
+wear
+and
+tear
+(condition),
+and
+functional
+or
+economic
+obsolescence.
+Depreciation may apply to both Structure and
+Contents items. Your estimate was completed
+based on the information you provided regarding
+the age and condition of the depreciated items.
+G.
+CONDITION
+The category or state of an item with regard to
+its
+appearance,
+quality,
+or
+working
+order.
+Condition
+options
+are
+new,
+above
+average,
+average and below average.
+H.
+AGE
+This
+represents
+the
+age
+and
+average
+life
+expectancy of the particular line item at the time
+of loss.
+I.
+REPAIR OR REPLACE ACTIONS
+Describes
+the
+repairs
+and/or
+replacement
+materials and actions.
+J.
+DAMAGE LOCATION TOTALS
+Total before adding any applicable taxes and/or
+depreciation.
+K.
+SUMMARY OF INVOLVED COVERAGE
+The involved policy coverage for the damaged
+area.
+L.
+CONTRACTORS OVERHEAD AND PROFIT
+When appropriate, general contractors overhead
+and profit may be included to account for the
+services of a general contractor
+M.
+TOTAL WITH TAX
+The total estimate with any applicable tax and/or
+overhead and profit.
+N.
+DEDUCTIBLE APPLIED
+Reflects the applicable policy deductible applied.
+O.
+RECOVERABLE DEPRECIATION
+Total amount of depreciation that is recoverable.
+Depending on your policy language, you may be
+able to recover your depreciation upon your
+repair or replacement of the depreciated items.
+P.
+SALES TAX
+Based upon where the loss occurred, the sales
+tax
+laws
+may
+vary
+by
+state
+regarding
+the
+application of sales tax to materials and labor.
+Q.
+NET CLAIM FOR INVOLVED COVERAGE
+The total replacement cost less recoverable and
+non-recoverable depreciation and any applicable
+deductible equals the amount of the settlement
+for the involved coverage.
+Home:
+(123) 123-4567
+Business:
+(123) 123-4567
+Insured: John Smith
+Property: 1234 Oak Street
+Anytown, Anystate 12345
+Claim Number: 1234567890
+Policy Number: 000000123456789
+Type of Loss: Wind Damage
+Main Home
+1588.42 Surface Area
+15.88 Number of Squares
+173.41 Total Perimeter Length
+65.71 Total Ridge Length
+DESCRIPTION
+QUANTITY
+UNIT
+RCV
+AGE/LIFE
+COND
+DEP %
+DEPREC.
+ACV
+7. Queen Serta Perfect Sleeper Regal 
+Suite Double Sided Plush Mattress
+US Mattress-4/9/2018
+Orig. Desc.- Queen Serta Perfect Sleeper 
+Suite
+1.00 EA
+799.00
+799.00
+2/20
+Abv. Avg.
+6%
+(47.94)
+751.06
+Total: Contents
+799.00
+47.94
+751.06
+DESCRIPTION
+QUANTITY
+UNIT
+RCV
+AGE/LIFE
+COND
+DEP %
+DEPREC.
+ACV
+1. Remove 3 tab-25 yr. – composition 
+shingle roofing – incl. felt
+15.88SQ
+53.97
+857.04
+0/25 yrs
+Avg.
+NA
+(0.00)
+857.04
+2. 3 tab-25 yr.-comp. shingle roofing –
+w/out felt
+18.33SQ
+219.11
+4,016.29
+2/25 yrs
+Avg.
+8%
+(165.16)
+3,851.13
+3. Roofing felt-15 lb.
+15.88SQ
+32.88
+522.13
+2/20 yrs
+Abv. Avg.
+10%
+(15.98)
+506.15
+Total: Roof
+5,395.46
+181.14
+5,214.32
+J
 

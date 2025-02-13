@@ -11,7 +11,7 @@ import pymupdf
 
 # open_file.close()
 
-doc = pymupdf.open("./testXactimateData/Resume.pdf")  # open a document
+doc = pymupdf.open("./testXactimateData/Insurance1-redacted.pdf")  # open a document
 out = open("test.txt", "wb")  # create a text output
 for page in doc:  # iterate the document pages
     text = page.get_text().encode("utf8")  # get plain text (is in UTF-8)
