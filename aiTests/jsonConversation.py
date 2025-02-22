@@ -4,7 +4,7 @@ from marker.output import text_from_rendered
 from marker.config.parser import ConfigParser
 import os
 
-config = {"output_format": "markdown", "ADDITIONAL_KEY": "VALUE"}
+config = {"output_format": "json", "ADDITIONAL_KEY": "VALUE"}
 config_parser = ConfigParser(config)
 
 converter = PdfConverter(
@@ -18,7 +18,7 @@ for fileName in os.listdir("./testXactimateData/"):
     rendered = converter(f"./testXactimateData/{fileName}")
     text, _, images = text_from_rendered(rendered)
     print(text)
-    new_directory = "./convertedMarkdownData/"
+    new_directory = "./convertedXactimateJsonFiles/"
     fileName = fileName[:-4]
     new_file = open(new_directory + f"Json{fileName}", "w")
     new_file.write(text)
